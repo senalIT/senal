@@ -2,7 +2,7 @@
 
   <p align="center">
 
-<img src="https://telegra.ph/file/b8e8a0b9a9e4d8ab0fed0.jpg" alt="GIF" width="300" height="270"/>
+<img src="https://i.ibb.co/0sBHzy3/Whats-App-Image-2022-10-01-at-20-48-37-1.jpg" alt="GIF" width="300" height="270"/>
 
 </p>
 
@@ -16,11 +16,11 @@
 
 #### <p align="center">By Vihanga YT| © | Reserved  </br> 
 
-# ASTRO-BOT-MD-V1.0
+# Senal-BOT-MD-V1.0
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
-    [©] AstroBot-MD New Features
+    [©] SenalBot-MD New Features
 
      > Playstore Apk Downloder [.downapk]
      > Playstore Apk searcher [.apk]
@@ -41,8 +41,7 @@
 
 </p>
 
- ## My Website : [Click Heare](https://sites.google.com/view/vihangabot-md/vihangamd)
-
+ ## 
 1. Click [SCAN](https://astro-qr.astromdqr.repl.co/) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
 2. Click [FORK](https://github.com/vihangayt0/Astro-MD/fork)
@@ -55,10 +54,4 @@
 
 
 ## Owner:
-* [`Vihanga-YT`](https://github.com/vihangayt0)
-
-## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`MR.Nima`](https://github.com/DarkMakerofc)
-* [`EDM-OFFICIAL`](https://github.com/edm-official)
-* [`Sanuwa-Official`](https://github.com/sanuwaofficial)
+* SENAL BOY
